@@ -14,6 +14,7 @@ Facebook
  2. My Github Profile     [NagsenWaghmare] (https://github.com/Nagsenwaghmare).
 
 
-   Nagsen waghmare
-   - Nagsen waghmare
-     - Nagsen waghmare
+   Achivements:
+   - #1 in Nanded during Drawing competition among 1k Participants.
+     - #1048 IN JEE MAIN 
+       - #1155 IN JEE-ADVANCED
