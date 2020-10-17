@@ -20,4 +20,4 @@ Facebook
        - #1155 IN JEE-ADVANCED
        
        
-       - [ ] Thank You .
+       - [x] Thank You .
