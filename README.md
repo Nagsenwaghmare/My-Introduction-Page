@@ -10,8 +10,8 @@ Twitter
 Instagram
 Facebook
 ```
- 1. My Restaurent Website [*_nagseo_*] (https://nagseo.000webhostapp.com).
- 2. My Github Profile     [NagsenWaghmare] (https://github.com/Nagsenwaghmare).
+
+ 1. My Github Profile     [NagsenWaghmare] (https://github.com/Nagsenwaghmare).
 
 
    Achivements:
